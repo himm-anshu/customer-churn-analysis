@@ -43,7 +43,7 @@ The dataset was cleaned from a SQLite database and exported as a CSV file before
 
 ### Churn by Plan Type
 
-![Churn by Plan Type](images/churn_by_plan.png)
+![Churn by Plan Type](images/churn_by_plan_type.png)
 
 ### Churn by State
 
