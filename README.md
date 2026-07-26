@@ -60,6 +60,14 @@ The dataset was cleaned from a SQLite database and exported as a CSV file before
 - `customer_churn_analysis.ipynb` – Complete analysis notebook
 - `customer_churn.csv` – Cleaned dataset used for analysis
 
+## Key Insights
+
+- Customers on the **Basic** plan showed a higher churn rate compared to Premium and Standard plans.
+- Contract type has a strong relationship with customer churn.
+- The correlation analysis highlights important relationships between churn score, churn flag, and churn risk.
+- Customer churn varies across different states, indicating possible regional differences.
+- Monthly churn trends reveal fluctuations that may help identify periods of higher customer attrition.
+
 ---
 
 ## Future Improvements
